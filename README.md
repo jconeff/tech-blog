@@ -22,6 +22,8 @@ Use of Handlebars.js
 
 
 ![new post](https://user-images.githubusercontent.com/65797801/107128813-b4080000-688e-11eb-8712-cfa9ead23ab9.png)
+
+![edit](https://user-images.githubusercontent.com/65797801/107128978-f1b95880-688f-11eb-8c35-0efda97cf981.png)
  
  
 
